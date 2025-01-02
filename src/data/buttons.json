@@ -1,0 +1,34 @@
+{
+    "buttons": [
+        {
+            "id": "agency",
+            "title": "Software Agency",
+            "url": "https://apollocode.io/"
+        },
+        {
+            "id": "github",
+            "title": "GitHub Profile",
+            "url": "https://github.com/shas22"
+        },
+        {
+            "id": "linkedin",
+            "title": "Linkedin Profile",
+            "url": "https://linkedin.com/in/shasv" 
+        },
+        {
+            "id": "resume",
+            "title": "Resume",
+            "url": ""
+        },
+        {
+            "id": "music",
+            "title": "Music Business",
+            "url": "https://www.beatstars.com/vessail"
+        },      
+        {
+            "id": "contact",
+            "title": "Contact Me",
+            "url": "mailto:coding@gmail.com" 
+        }
+    ]
+} 
